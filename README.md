@@ -7,6 +7,8 @@ Doc: https://reactrouter.com/en/dev<br>
 
 Router:https://www.npmjs.com/package/react-router-dom<br>
 
+Doc: https://create-react-app.dev/docs/adding-bootstrap/<br>
+
 
 npx degit user/project my-project<br>
 cd my-project<br>
